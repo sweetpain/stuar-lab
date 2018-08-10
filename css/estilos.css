@@ -1,0 +1,82 @@
+h1 {
+	color: red;
+	text-align: left;
+}
+h2{
+	color: red;
+	background-color: green;
+}
+
+h3{
+	color: white;
+	background-color: green;
+}
+
+.sr1{
+	color: red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+.em1{
+	color: red;
+	background-color: yellow;
+
+}
+.cl1{
+	color: white;
+	background-color: gray ;
+}
+
+.a1{
+	background-color: red;
+}
+
+.ca1{
+	color: white;
+	background-color: black;
+}
+
+.gray1{
+
+	background-color: gray;
+}
+
+.u1{
+	color: white;
+	background-color: green;
+}
+.a2{
+	background-color: green;
+}
+
+.ultimo{
+	color: white;
+	background-color: blue;
+}
+
+.ÑU {
+	color: blue;
+	background-color: black;
+	font-size: 60px;
+}
+
+.linea{
+	color: white;
+	background-color: black;
+}
+
+.GNU {
+	color: red;
+	font-size: 60px;
+}
+
+.pro {
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+
+.W {
+	
+}
